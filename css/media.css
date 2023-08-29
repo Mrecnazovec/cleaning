@@ -1,0 +1,270 @@
+@media screen and (max-width: 930px) {
+	.menu {
+		display: none;
+	}
+	.language {
+		display: none;
+	}
+	.hamburger-menu {
+		display: block;
+	}
+	.menu__btn {
+		left: auto;
+		right: 20px !important;
+		top: 22px !important;
+	}
+	.menu__box {
+		z-index: 10;
+	}
+	.menu-list {
+		margin-bottom: 40px;
+		padding-left: 30px;
+	}
+	.largeBox {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.threeButtonBox {
+		justify-content: center;
+	}
+	.fourLargebox {
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.sdvigbutton {
+		justify-content: center;
+	}
+	.fourImg {
+		display: none;
+	}
+	.foutOnetext {
+		text-align: center;
+	}
+	.fourTwotext {
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	.carta {
+		width: 100%;
+	}
+	iframe {
+		width: 100%;
+	}
+	.mainBox {
+		background-image: none !important;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.formSection .bubble {
+		left: 0;
+		top: 0;
+	}
+	.pos-btn {
+		display: none;
+	}
+	.hamburger-menu .pos-btn a {
+		background-color: #00cbff;
+		border-radius: 30px;
+		color: #fff;
+		font-family: 'Inter';
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		padding: 15px;
+		margin-left: 30px;
+	}
+	.footer-nav {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.logo-footer {
+		margin-bottom: 30px;
+	}
+	.footer-ul {
+		padding: 0;
+	}
+	.footer-social-top {
+		padding: 0;
+	}
+	.header-section {
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		padding-top: 45px;
+	}
+	.header-section .title {
+		font-size: 40px;
+		line-height: 40px;
+		margin-bottom: 150px;
+		max-width: 500px;
+	}
+	.threeBigBoxTwo {
+		width: fit-content !important;
+	}
+	.fourTextbox {
+		width: fit-content;
+	}
+	.header-section .text {
+		display: none;
+	}
+}
+@media screen and (max-width: 500px) {
+	.carousel-box {
+		height: 400px;
+	}
+	.header-section .title {
+		color: #000;
+		font-family: Inter;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 124.523%;
+		max-width: 202px;
+		margin-bottom: 23px;
+	}
+	.header-section .text {
+		font-size: 15px;
+		line-height: 15px;
+	}
+	.header-section .btn {
+		color: #fff;
+		font-family: Inter;
+		font-size: 12px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+	}
+	.mainOne-link {
+		color: #fff;
+		font-family: Inter;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+	}
+	.mainOne-text {
+		color: #00cbff;
+		text-align: center;
+		font-family: Inter;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 135.523%;
+	}
+	.mainOne-text span {
+		color: #00cbff;
+		font-family: Inter;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: 135.523%;
+	}
+	.mobile {
+		display: block;
+		color: #000;
+		font-family: Myanmar MN;
+		font-size: 13px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+	}
+	.threeBigBoxImg {
+		width: 100%;
+	}
+	.threeTitle {
+		color: #fff;
+		text-align: center;
+		font-family: Inter;
+		font-size: 14px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 126.523%;
+		max-width: 186px;
+	}
+	.threeTitleBox {
+		padding: 10px !important;
+		width: fit-content;
+	}
+	.threeBigBoxTwo {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.threeText {
+		text-align: center;
+	}
+	.threeTextTwo {
+		text-align: center;
+	}
+	.threeButton {
+		color: #fff;
+		font-family: Inter;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		padding: 15px 20px;
+	}
+	.fourTitle {
+		color: #fff;
+		font-family: Inter;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+		padding: 15px !important;
+		width: fit-content;
+		height: fit-content;
+	}
+	.foutOnetext {
+		color: #10ceff;
+		text-align: center;
+		font-family: Inter;
+		font-size: 18px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+	}
+	.fourTextbox {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.fourButton {
+		color: #fff;
+		font-family: Inter;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		padding: 15px;
+	}
+	.fiveTitle {
+		color: #fff;
+		font-family: Inter;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+		padding: 10px !important;
+		width: fit-content;
+		height: fit-content;
+		margin-bottom: 0;
+	}
+	.fiveTitlebox {
+		width: fit-content;
+		height: fit-content;
+	}
+	.formSection .bubble {
+		display: none;
+	}
+
+}
