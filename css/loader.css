@@ -17,9 +17,11 @@
 	}
 	
 }
-.loaded .loader{
-	display: none;
+.loaded_hiding .loader {
+	transition: 0.3s opacity;
+	opacity: 0;
 }
-.loaded_hiding .loader{
-	display: flex;
+
+.loaded .loader {
+	display: none;
 }
