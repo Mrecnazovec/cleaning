@@ -94,3 +94,11 @@
 .menu__item:hover {
   background-color: #CFD8DC;
 }
+
+#menu__toggle {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
