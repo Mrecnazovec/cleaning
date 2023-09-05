@@ -267,4 +267,16 @@
 	.formSection .bubble {
 		display: none;
 	}
+	.header-section .postext {
+		color: #fff;
+		font-family: Inter;
+		font-size: 12px;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		padding: 10px;
+	}
+	.footer-btn{
+		display: none;
+	}
 }
