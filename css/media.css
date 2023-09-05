@@ -114,7 +114,7 @@
 		display: none;
 	}
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 525px) {
 	.carousel-box {
 		height: 400px;
 	}
@@ -173,6 +173,7 @@
 		font-style: normal;
 		font-weight: 400;
 		line-height: normal;
+		text-align: center;
 	}
 	.threeBigBoxImg {
 		width: 100%;
@@ -266,5 +267,4 @@
 	.formSection .bubble {
 		display: none;
 	}
-
 }

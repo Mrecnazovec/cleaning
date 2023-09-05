@@ -12,8 +12,8 @@ $(document).ready(function(){
 				settings: {
 					arrows: false,
 					swipe:true,
-					autoplaySpeed:3000,
 					slidesToShow: 3,
+					slidesToScroll: 3,
 
 
 
@@ -24,21 +24,21 @@ $(document).ready(function(){
 				settings: {
 					arrows: false,
 					swipe:true,
-					autoplaySpeed:3000,
+					slidesToScroll: 2,
 					slidesToShow: 2,
+
 
 
 
 				}
 			},
 			{
-				breakpoint: 500,
+				breakpoint: 526,
 				settings: {
 					arrows: false,
 					swipe:true,
-					autoplaySpeed:3000,
+					slidesToScroll: 1,
 					slidesToShow: 1,
-
 
 
 				}
