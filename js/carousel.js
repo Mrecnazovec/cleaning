@@ -2,7 +2,7 @@ $(document).ready(function(){
 	$('.carousel').slick({
 		infinite: true,
 		slidesToShow: 4,
-		slidesToScroll: 3,
+		slidesToScroll: 1,
 		prevArrow: '<button id="prev" type="button" class="btn navigate prev"><img src="./assets/svg/arrow.svg" alt="ar"></button>',
     nextArrow: '<button id="next" type="button" class="btn navigate next"><img src="./assets/svg/arrow.svg" alt="ar"></button>',
 		dots: true,
@@ -13,7 +13,7 @@ $(document).ready(function(){
 					arrows: false,
 					swipe:true,
 					slidesToShow: 3,
-					slidesToScroll: 3,
+					slidesToScroll: 1,
 
 
 
@@ -24,7 +24,7 @@ $(document).ready(function(){
 				settings: {
 					arrows: false,
 					swipe:true,
-					slidesToScroll: 2,
+					slidesToScroll: 1,
 					slidesToShow: 2,
 
 
