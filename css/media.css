@@ -116,7 +116,7 @@
 }
 @media screen and (max-width: 525px) {
 	.carousel-box {
-		height: 350px;
+		height: 400px;
 	}
 	.header-section .title {
 		color: #000;
